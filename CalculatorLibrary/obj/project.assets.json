@@ -14,19 +14,6 @@
             "related": ".xml"
           }
         }
-      },
-      "CalculatorLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3"
-        },
-        "compile": {
-          "bin/placeholder/CalculatorLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CalculatorLibrary.dll": {}
-        }
       }
     }
   },
@@ -60,16 +47,11 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
-    },
-    "CalculatorLibrary/1.0.0": {
-      "type": "project",
-      "path": "../CalculatorLibrary/CalculatorLibrary.csproj",
-      "msbuildProject": "../CalculatorLibrary/CalculatorLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "CalculatorLibrary >= 1.0.0"
+      "Newtonsoft.Json >= 13.0.3"
     ]
   },
   "packageFolders": {
@@ -78,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/Calculator/Calculator.csproj",
-      "projectName": "Calculator",
-      "projectPath": "/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/Calculator/Calculator.csproj",
+      "projectUniqueName": "/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/CalculatorLibrary.csproj",
+      "projectName": "CalculatorLibrary",
+      "projectPath": "/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/CalculatorLibrary.csproj",
       "packagesPath": "/Users/barrmohammed/.nuget/packages/",
-      "outputPath": "/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/Calculator/obj/",
+      "outputPath": "/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/barrmohammed/.nuget/NuGet/NuGet.Config"
@@ -97,11 +79,7 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {
-            "/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/CalculatorLibrary.csproj": {
-              "projectPath": "/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/CalculatorLibrary.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -119,6 +97,12 @@
     "frameworks": {
       "net9.0": {
         "targetAlias": "net9.0",
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

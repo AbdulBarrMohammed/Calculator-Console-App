@@ -1,0 +1,13 @@
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/bin/Debug/net9.0/CalculatorLibrary.deps.json
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/bin/Debug/net9.0/CalculatorLibrary.dll
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/bin/Debug/net9.0/CalculatorLibrary.pdb
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/obj/Debug/net9.0/CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/obj/Debug/net9.0/CalculatorLibrary.AssemblyInfoInputs.cache
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/obj/Debug/net9.0/CalculatorLibrary.AssemblyInfo.cs
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/obj/Debug/net9.0/CalculatorLibrary.csproj.CoreCompileInputs.cache
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/obj/Debug/net9.0/CalculatorLibrary.sourcelink.json
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/obj/Debug/net9.0/CalculatorLibrary.dll
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/obj/Debug/net9.0/refint/CalculatorLibrary.dll
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/obj/Debug/net9.0/CalculatorLibrary.pdb
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/obj/Debug/net9.0/ref/CalculatorLibrary.dll
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/CalculatorLibrary/obj/Debug/net9.0/CalculatorLibrary.csproj.AssemblyReference.cache

@@ -13,3 +13,8 @@
 /Users/barrmohammed/Desktop/DotnetAcademy/Calculator/Calculator/obj/Debug/net9.0/Calculator.genruntimeconfig.cache
 /Users/barrmohammed/Desktop/DotnetAcademy/Calculator/Calculator/obj/Debug/net9.0/ref/Calculator.dll
 /Users/barrmohammed/Desktop/DotnetAcademy/Calculator/Calculator/obj/Debug/net9.0/refint/Calculator.dll
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/Calculator/bin/Debug/net9.0/CalculatorLibrary.dll
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/Calculator/bin/Debug/net9.0/CalculatorLibrary.pdb
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/Calculator/obj/Debug/net9.0/Calculator.csproj.AssemblyReference.cache
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/Calculator/obj/Debug/net9.0/Calculator.csproj.Up2Date
+/Users/barrmohammed/Desktop/DotnetAcademy/Calculator/Calculator/bin/Debug/net9.0/Newtonsoft.Json.dll
